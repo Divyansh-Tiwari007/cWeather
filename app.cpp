@@ -42,7 +42,7 @@ void showWeather(string w) {
   cout << "\tWind Direction : " << a[8] << " degree" << endl << endl;
   cout << "\tAt : " << a[9] <<", "<< a[13] << endl;
   cout << "\t     " << a[12] << "\n\t     " << a[14] << "\n\t     " << a[15] << endl ;
-  cout << "\n\t\t--------------- HAVE A GOOD DAY AMIGO -------------------" << endl << endl ;
+  cout << "\n\t\t---------------- HAVE A GOOD DAY AMIGO -------------------" << endl << endl ;
   
 }
 
